@@ -1,3 +1,3 @@
 # Testproject1 for jenkins
 
-![Иллюстрация к проекту](Testproject1/png.png)
+![](https://github.com/Densoff/Testproject1.git)
