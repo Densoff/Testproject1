@@ -1,3 +1,3 @@
 # Testproject1 for jenkins
 
-![](https://cloudcraft.co/api/blueprint/a81ae543-492c-481a-9e01-cee707059771/png)
+![png](https://user-images.githubusercontent.com/47382593/55475156-d0480f80-561b-11e9-98e3-42d55aa842f6.png)
